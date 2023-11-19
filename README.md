@@ -2,6 +2,8 @@
 
 This is an interactive Tasks List App built with Next.js, TypeScript, Redux, Tailwind CSS and LocalStorage. It allows users to create and remove tasks and marks tasks as completed. It persists the tasks in local storage to make them available when users return to the site.
 
+Here is the live app hosted at Vercel [Tasks List App]([https://www.google.com](https://interactive-tasks-list-9prk7b6jd-peters-projects-84d96abc.vercel.app/) "Tasks List App")
+
 ## Features :dart:
 
 - Create new Task.
